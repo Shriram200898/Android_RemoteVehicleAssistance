@@ -1,0 +1,2 @@
+# Android_RemoteVehicleAssistance_Project
+On Road Remote Vehicle Assistant is a Mobile Application which will provide you a helping hand whenever your engine breaks down in the middle of your journey, far away from your destination. This application provides a mechanic or towing service at a location where the vehicle's engine has failed. I developed this application using Android Studio IDE in java.
