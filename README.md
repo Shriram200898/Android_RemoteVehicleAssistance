@@ -7,8 +7,7 @@ On Road Remote Vehicle Assistant is a Mobile Application which will provide you 
 ![Splash Screen](https://user-images.githubusercontent.com/78818517/206158866-eba3ee6e-0277-482b-9aa6-177b45962662.jpeg)
 ![Home Screen](https://user-images.githubusercontent.com/78818517/206159949-e24e3c2c-65bc-419c-af50-b6fcfc3a0e33.jpg)
 ![User Login Screen](https://user-images.githubusercontent.com/78818517/206159366-57903894-28fa-416a-81e0-24ab323e7e7f.jpg)
-![User Registration Screen](https://user-images.githubusercontent.com/78818517/206159440-d1604c4e-6910-4743-8f19-92f7745c44e3.jpg)![Admin Product Screen](https://user-images.githubusercontent.com/78818517/206161441-b921d7a7-0156-4fb2-a687-c8081716a6c6.jpg)
-
+![User Registration Screen](https://user-images.githubusercontent.com/78818517/206159440-d1604c4e-6910-4743-8f19-92f7745c44e3.jpg)
 ![Forget Password Screen](https://user-images.githubusercontent.com/78818517/206161248-8caa1aee-71e6-4045-ad1b-5c76fa4ffc0b.jpg)
 ![Reset Password Screen](https://user-images.githubusercontent.com/78818517/206161305-18aab5ca-4c53-4abc-b66f-9d1f50697c28.jpg)
 ![User Home Screen](https://user-images.githubusercontent.com/78818517/206158919-332b41d2-92e4-4d75-84c4-f5f211a0eb9f.jpg)
